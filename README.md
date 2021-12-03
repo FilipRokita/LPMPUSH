@@ -8,6 +8,7 @@ An application that simulates pressing the left mouse button continuously. To us
 2. Run the exe
 3. Input the key you want to enable LPMPUSH with (must be uppercase)
 4. Input the key you want to disable LPMPUSH with (must be uppercae)
+5. Enable and disable it with the buttons selected before
 
 # Author
 Filip Rokita</br>
