@@ -1,7 +1,7 @@
 # LPMPUSH
 An application that simulates pressing the left mouse button continuously. To use, start the application and select the buttons (must be uppercase) that will be used to turn on and off.<br/>
 <br/>
-<img src="LPMPUSH.png">
+<img src="LPMPUSH.png"/>
 
 # How to use
 1. Run LPMPUSH
